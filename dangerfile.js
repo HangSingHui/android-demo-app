@@ -51,4 +51,4 @@ message(`- Lines added: ${additions} ➕`);
 message(`- Lines deleted: ${deletions} ➖`);
 message(`- Total changes: ${totalChanges}`);
 
-message("✅ Review complete!");
+message("✅ Review completed!");
